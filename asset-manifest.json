@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/janus-videoromm/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/janus-videoromm/static/js/main.538fec97.chunk.js",
+    "main.js.map": "/janus-videoromm/static/js/main.538fec97.chunk.js.map",
+    "runtime-main.js": "/janus-videoromm/static/js/runtime-main.31e256ee.js",
+    "runtime-main.js.map": "/janus-videoromm/static/js/runtime-main.31e256ee.js.map",
+    "static/css/2.150d169a.chunk.css": "/janus-videoromm/static/css/2.150d169a.chunk.css",
+    "static/js/2.d6d6bd8d.chunk.js": "/janus-videoromm/static/js/2.d6d6bd8d.chunk.js",
+    "static/js/2.d6d6bd8d.chunk.js.map": "/janus-videoromm/static/js/2.d6d6bd8d.chunk.js.map",
+    "static/js/3.0fc92c29.chunk.js": "/janus-videoromm/static/js/3.0fc92c29.chunk.js",
+    "static/js/3.0fc92c29.chunk.js.map": "/janus-videoromm/static/js/3.0fc92c29.chunk.js.map",
+    "index.html": "/janus-videoromm/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/janus-videoromm/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/janus-videoromm/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d6d6bd8d.chunk.js.LICENSE.txt": "/janus-videoromm/static/js/2.d6d6bd8d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/janus-videoromm/static/media/logo.6ce24c58.svg",
+    "static/media/offline.a557cfc8.jpg": "/janus-videoromm/static/media/offline.a557cfc8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31e256ee.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.d6d6bd8d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.538fec97.chunk.js"
+  ]
+}
